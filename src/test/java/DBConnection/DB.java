@@ -9,9 +9,9 @@ import java.util.Map;
 
 public class DB {
     // Define the database connection details
-    private static final String DB_URL = "jdbc:mysql://144.24.212.5:3306/bnpl_staging_new";
-    private static final String DB_USER = "madfustagrootuser";
-    private static final String DB_PASSWORD = "6hdS5aGedbHLtwItcEI@";
+    private static final String DB_URL = "";
+    private static final String DB_USER = "";
+    private static final String DB_PASSWORD = "";
     private Object merchantID;
 
     // Method to get a database connection
